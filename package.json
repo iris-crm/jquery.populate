@@ -1,0 +1,16 @@
+{
+    "name": "jquery.populate",
+    "version": "1.0.0",
+    "description": "jQuery Populate",
+    "main": "jquery.populate.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/iris-crm/jquery.populate"
+    },
+    "author": "",
+    "bugs": {
+      "url": "https://github.com/iris-crm/jquery.populate/issues"
+    },
+    "homepage": "https://github.com/iris-crm/jquery.populate#readme",
+    "private": true
+  }
